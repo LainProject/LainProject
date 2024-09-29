@@ -1,4 +1,1 @@
-- Hi, I’m Marshal
-- I'm interested in learning C# and ASP.NET technologies, as well as creating desktop applications. Also interested in cybersecurity and that sort of thing.
-- Collaboration with like-minded people is possible.
-- How to reach me. Telegram: @project_Lain
+
